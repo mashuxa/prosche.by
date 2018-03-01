@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#343F4C;}
-	.st1{fill:#E59C44;}
-	.st2{fill:#D8665E;}
-	.st3{fill:#F8FCFF;}
-	.st4{fill:#D0DBE5;}
-</style>
+	 width="595.279px" height="841.891px" viewBox="0 0 595.279 841.891" enable-background="new 0 0 595.279 841.891"
+	 xml:space="preserve">
 <g id="document_1_">
 	<g>
-		<rect x="93.3" y="259.5" class="st0" width="3" height="1.3"/>
-		<rect x="93.3" y="235.2" class="st1" width="3" height="16.8"/>
-		<rect x="93.3" y="235.2" class="st1" width="3" height="16.8"/>
-		<polygon class="st0" points="96.8,243.1 92.9,243.1 93.3,242.8 96.4,242.8 		"/>
-		<rect x="92.9" y="243.1" class="st2" width="3.9" height="16.8"/>
-		<polygon class="st0" points="93.3,235.2 94.8,232.3 96.4,235.2 		"/>
-		<path class="st0" d="M92.6,257.1v-0.3v-4.1v-0.2c0,0,0-0.5-0.1-0.9c-0.2-0.7-0.9-1.3-1.3-0.8c-0.4,0.5,0.5,0.9,0.4,1.5v0.5v4.1
-			v0.9c0,0.2,0.2,0.5,0.5,0.5h0.1h4.7v-1H92.6z"/>
+		<rect x="93.297" y="259.5" fill="#343F4C" width="3" height="1.3"/>
+		<rect x="93.297" y="235.201" fill="#E59C44" width="3" height="16.799"/>
+		<rect x="93.297" y="235.201" fill="#E59C44" width="3" height="16.799"/>
+		<polygon fill="#343F4C" points="96.797,243.101 92.897,243.101 93.297,242.801 96.397,242.801 		"/>
+		<rect x="92.897" y="243.101" fill="#D8665E" width="3.9" height="16.799"/>
+		<polygon fill="#343F4C" points="93.297,235.201 94.797,232.301 96.397,235.201 		"/>
+		<path fill="#343F4C" d="M92.597,257.101v-0.3v-4.1v-0.2c0,0,0-0.5-0.1-0.9c-0.2-0.7-0.9-1.3-1.301-0.8c-0.399,0.5,0.5,0.9,0.4,1.5
+			v0.5v4.1v0.9c0,0.2,0.2,0.5,0.5,0.5h0.1h4.7v-1h-4.3V257.101z"/>
 	</g>
 	<g>
-		<polygon class="st3" points="123.5,217.3 98,217.3 98,260.8 133.2,260.8 133.2,227.1 		"/>
-		<polygon class="st4" points="123.5,227.1 133.2,227.1 123.5,217.3 		"/>
-		<rect x="100.9" y="230.1" class="st0" width="30.2" height="3.3"/>
-		<rect x="100.9" y="236.4" class="st0" width="30.2" height="3.3"/>
-		<rect x="100.9" y="242.5" class="st0" width="30.2" height="3.3"/>
-		<rect x="100.9" y="249.3" class="st0" width="21.3" height="3.3"/>
-		<circle class="st2" cx="126.5" cy="254.9" r="4.3"/>
+		<polygon fill="#F8FCFF" points="123.496,217.302 97.996,217.302 97.996,260.8 133.196,260.8 133.196,227.102 		"/>
+		<polygon fill="#D0DBE5" points="123.496,227.102 133.196,227.102 123.496,217.302 		"/>
+		<rect x="100.897" y="230.102" fill="#343F4C" width="30.199" height="3.3"/>
+		<rect x="100.897" y="236.401" fill="#343F4C" width="30.199" height="3.3"/>
+		<rect x="100.897" y="242.501" fill="#343F4C" width="30.199" height="3.3"/>
+		<rect x="100.897" y="249.301" fill="#343F4C" width="21.299" height="3.3"/>
+		<circle fill="#D8665E" cx="126.495" cy="254.9" r="4.3"/>
 	</g>
 </g>
 </svg>
