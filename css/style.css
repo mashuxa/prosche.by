@@ -35,8 +35,15 @@ h3 {
   font-size: 30px;
   line-height: 1.4;
 }
+a {
+  text-decoration: none;
+  color: #373737;
+}
 .d-flex {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.btn {
+  display: inline-block;
 }
