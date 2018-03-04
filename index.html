@@ -17,7 +17,7 @@
             <a class="btn btn_phone" href="tel:+375297550921"><img src="img/phone.svg" alt="Phone: ">+375 29 755 09 21</a>
         </div>
     </header>
-    <article class="row-1">
+    <article class="row row-1">
         <div class="container">
             <h1>Сделаем учет PROSCHE!</h1>
             <p>Мы ведем бухгалтерию просто и понятно. Готовим и сдаем отчетность, считаем налоги, составляем балансы и делаем еще много сопутствующей работы. </p>
@@ -30,37 +30,37 @@
             <img src="img/bg-prosche.svg" alt="Всё ПРОЩЕ!">
         </div>
     </article>
-    <article class="row-2 bg-beige">
+    <article class="row row-2 bg-beige">
         <div class="container">
             <h1>Мы делаем Простой учёт</h1>
-            <p class="txt-center">Аутсорсинг бухгалтерии – Простой и надежный. Решим все ваши вопросы с бухгалтерией и другие связанные задачи. Окажем юридическую помощь . Вы развиваете свой бизнес.</p>
+            <p class="txt-center">Аутсорсинг бухгалтерии – Простой и надежный. Решим все ваши вопросы с бухгалтерией и другие связанные задачи. Окажем юридическую помощь. Вы развиваете свой бизнес.</p>
             <div class="steps d-flex">
                 <div class="step">
                     <h6 class="step__header">Заключаем договор</h6>
                     <div class="step__icon">
-                        <img class="img-center" src="img/icon-contract.svg" alt="Contract"> </div>
+                        <img src="img/icon-contract.svg" alt="Contract"> </div>
                 </div>
                 <div class="step">
 
-                    <div class="step__icon"> <img class="img-center" src="img/icon-accounting.svg" alt="Accounting"> </div>
+                    <div class="step__icon"> <img src="img/icon-accounting.svg" alt="Accounting"> </div>
                     <h6 class="step__header">Ведём учёт</h6>
                 </div>
                 <div class="step">
                     <h6 class="step__header">Сдаём отчётность и считаем налоги</h6>
-                    <div class="step__icon"> <img class="img-center" src="img/icon-count.svg" alt="Counter"> </div>
+                    <div class="step__icon"> <img src="img/icon-count.svg" alt="Counter"> </div>
                 </div>
                 <div class="step">
-                    <div class="step__icon"> <img class="img-center" src="img/icon-check.svg" alt="Checking"> </div>
+                    <div class="step__icon"> <img src="img/icon-check.svg" alt="Checking"> </div>
                     <h6 class="step__header">Проверяем контрагентов</h6>
                 </div>
                 <div class="step">
                     <h6 class="step__header">Помогаем развивать бизнес</h6>
-                    <div class="step__icon"> <img class="img-center" src="img/icon-develop.svg" alt="Develop"> </div>
+                    <div class="step__icon"> <img src="img/icon-develop.svg" alt="Develop"> </div>
                 </div>
             </div>
         </div>
     </article>
-    <article class="row-3 bg-blue">
+    <article class="row row-3 bg-blue">
         <div class="container">
             <h1>Как мы работаем</h1>
             <p>Вы присылаете первичные документы, мы их проверяем и заносим в базу.</p>
@@ -74,7 +74,7 @@
             </ol>
         </div>
     </article>
-    <article class="row-4">
+    <article class="row row-4">
         <div class="container">
             <h1>Почему мы</h1>
             <ol class="custom-ol-list">
@@ -84,11 +84,12 @@
             </ol>
         </div>
     </article>
-    <article class="row-5 bg-beige">
+    <article class="row row-5 bg-beige">
         <div class="container">
-            <h1>Сколько стоит сделать учет PROSCHE</h1>
+            <h1>Сколько стоит сделать <br> учет PROSCHE</h1>
             <p>Тарифы на наши услуги формируются от количества первичных документов и количества сотрудников.</p>
-            <table>
+            <div class="table-wrapper">
+                <table>
                 <theader>
                     <tr>
                         <th>Услуги включенные в тариф</th>
@@ -220,6 +221,8 @@
                     </tr>
                 </tbody>
             </table>
+            </div>
+            <h3 class="pre-calculation-header">Предварительный расчет:</h3>
             <form class="pre-calculation d-flex" name="preCalculation">
                 <select id="type">
           <option>Единый налог для ИП</option>
@@ -227,8 +230,8 @@
           <option>УСН с НДС</option>
           <option>ОСН</option>
         </select>
-                <input type="number" id="valDocs" min="1">
-                <input type="number" id="valWorkers" min="1"> <span><span>Итого:</span> <span id="result"></span> <span>byn</span></span>
+                <input type="number" id="valDocs" min="1" placeholder="Введите кол-во документов">
+                <input type="number" id="valWorkers" min="1" placeholder="Введите кол-во работников"> <span class="summ"><span>Итого:</span> <span id="result">0</span> <span>byn</span></span>
             </form>
             <h3>Цены на услуги, не вошедшие в основной тариф</h3>
             <ol class="custom-ol-list">
@@ -241,13 +244,13 @@
             </ol>
         </div>
     </article>
-    <article class="row-6">
+    <article class="row row-6">
         <div class="container">
             <h1>Если вам не понравится</h1>
             <p class="txt-center"> Если не устроят наши услуги или вы решите организовать бухгалтерию локально - мы подготовим базу, передадим их вашему бухгалтеру. Или подберем вам новый тариф:) </p>
         </div>
     </article>
-    <article class="row-7 bg-beige">
+    <article class="row row-7 bg-beige">
         <div class="container">
             <h1>Мы вам не подходим, если:</h1>
             <ul class="custom-ul-list custom-ul-list_important">
